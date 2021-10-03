@@ -1,3 +1,8 @@
+---
+layout: default
+title: Как купить апартаменты в Софии и не облажаться
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Valik/how-to/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
